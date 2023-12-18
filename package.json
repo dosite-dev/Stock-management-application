@@ -4,6 +4,7 @@
   "description": "This is NodeJs,Express.js and MongoDB application for managing stock in company",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
